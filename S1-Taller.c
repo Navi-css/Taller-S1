@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Mathias Zea e Iván Montero
 int main() {
     int productoID;
     char nombre[50];
@@ -96,4 +96,5 @@ int main() {
 
     return 0;
 }
+
 
