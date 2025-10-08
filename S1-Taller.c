@@ -92,9 +92,10 @@ int main() {
             default:
                 printf("Opcion invalida.\n");
         }
-    } while (opcion == 5); 
+    } while (opcion != 5); 
 
     return 0;
 }
+
 
 
